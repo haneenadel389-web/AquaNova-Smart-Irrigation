@@ -28,6 +28,18 @@ An automated precision-irrigation system that monitors soil moisture, temperatur
 - Relay Module → D9 (HIGH=OFF, LOW=ON)
 - LCD 16x2 → SDA/SCL, I2C address 0x27
 
+  ## Prototype
+
+![AquaNova Device](AquaNova_Device.jpg)
+
+### Wiring Notes
+- Soil Moisture → A0 (analog)
+- DHT11 → D7 (digital, with 3-attempt retry)
+- LDR → D4 (digital: 0=Day, 1=Night)
+- Flow Sensor YF-S201 → D2 (INT0, FALLING edge)
+- Relay Module → D9 (HIGH=OFF, LOW=ON)
+- LCD 16x2 → SDA/SCL, I2C address 0x27
+
 ## Files
 - `smart_irrigation_v2__1_.ino` — Main Arduino firmware
 - `AquaNova_Smart_Irrigation.pdf` — Project presentation

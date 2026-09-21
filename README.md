@@ -30,8 +30,8 @@ An automated precision-irrigation system that monitors soil moisture, temperatur
 
 ## Files
 - `smart_irrigation_v2__1_.ino` — Main Arduino firmware
-- `AquaNova_Smart_Irrigation.pptx (2).pdf` — Project presentation
-- `AquaNova_Device.jpg` — Final prototype photo
+- `AquaNova_Smart_Irrigation.pdf` — Project presentation
+- `AquaNova_Prototype.jpg` — Final prototype photo
 
 ## Team
 - Hager Mohamed El Azzazy

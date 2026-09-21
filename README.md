@@ -30,7 +30,7 @@ An automated precision-irrigation system that monitors soil moisture, temperatur
 
   ## Prototype
 
-![AquaNova Device](AquaNova_Device.jpg)
+![AquaNova Device](AquaNova_Prototype.jpg)
 
 ### Wiring Notes
 - Soil Moisture → A0 (analog)
